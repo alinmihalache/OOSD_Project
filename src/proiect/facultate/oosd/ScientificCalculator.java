@@ -552,7 +552,7 @@ public class ScientificCalculator extends JFrame {
         
         long workingDays = 0;
         LocalDate current = from;
-        
+        //s
         while (!current.isAfter(to)) {
             DayOfWeek dayOfWeek = current.getDayOfWeek();
             if (dayOfWeek != DayOfWeek.SATURDAY && dayOfWeek != DayOfWeek.SUNDAY) {
