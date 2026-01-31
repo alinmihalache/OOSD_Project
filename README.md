@@ -2,7 +2,7 @@
 
 O aplicație desktop versatilă dezvoltată în **Java**, care combină funcțiile unui calculator aritmetic cu un modul avansat pentru calculul perioadelor de timp.
 
-![Calculator Preview](ScientificCalcView.png)
+![Calculator Preview](images/ScientificCalcView.png)
 
 ## ✨ Caracteristici
 
