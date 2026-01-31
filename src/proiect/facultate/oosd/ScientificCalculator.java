@@ -446,7 +446,7 @@ public class ScientificCalculator extends JFrame {
         }
     }
 
-    // Funcție auxiliară pentru formatarea numerelor
+    // Funcție auxiliară pentru formatarea numerelorr
     private String formatNumber(double num) {
         // Elimină zerourile inutileee
         if (num == (long) num) {
